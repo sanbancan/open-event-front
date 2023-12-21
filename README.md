@@ -1,1 +1,1 @@
-open event front
+open event frontend development
